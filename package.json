@@ -3,7 +3,8 @@
     "version": "1.0.0",
     "description": "This repo is just to practice TDD in javascript",
     "scripts": {
-        "test": "jest"
+        "test": "jest",
+        "test:watch": "jest --watch"
     },
     "repository": {
         "type": "git",
