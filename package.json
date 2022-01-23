@@ -1,0 +1,24 @@
+{
+    "name": "testing-practice",
+    "version": "1.0.0",
+    "description": "This repo is just to practice TDD in javascript",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/JonPeeAir/testing-practice.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/JonPeeAir/testing-practice/issues"
+    },
+    "homepage": "https://github.com/JonPeeAir/testing-practice#readme",
+    "devDependencies": {
+        "@babel/core": "^7.16.12",
+        "@babel/preset-env": "^7.16.11",
+        "babel-jest": "^27.4.6",
+        "jest": "^27.4.7"
+    }
+}
