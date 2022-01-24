@@ -4,7 +4,7 @@
     "description": "This repo is just to practice TDD in javascript",
     "scripts": {
         "test": "jest",
-        "test:watch": "jest --watch"
+        "watch:test": "jest --watch"
     },
     "repository": {
         "type": "git",
